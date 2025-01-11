@@ -24,6 +24,7 @@
 
 ### 🌟 Featured Projects
 - [Trip Genie](https://github.com/Advanced-computer-lab-2024/Trip-Genie) - A comprehensive travel and tourism platform that enables users to book flights, hotels, transportation, activities, and explore historical places while also providing a marketplace for travel-related products.
-- [Project 2 Name](https://github.com/yourusername/project2) - A brief description of your project.
-- [Project 3 Name](https://github.com/yourusername/project3) - A brief description of your project.
+- [Last Of Us Legacy](https://github.com/Mohamed-Ahmed-Taha/The-Last-of-Us-Legacy) - Java team project: creating a complete game from scratch with its graphics and engine without using already
+existing game engines like Unity.
+- [Database Engine](https://github.com/Ashez6/DB2) - This is a Database Engine developed from scratch using Java.
 
