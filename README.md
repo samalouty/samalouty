@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning Computer Science and Engineering at the German University in Cairo
 - 📫 How to reach me: abdelrahmanelsamalouty@gmail.com
 - ⚡ Fun fact: I love cats.
+- 🧩 LeetCode: [![Leetcode](https://img.shields.io/badge/-LeetCode-1DA1F2?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Samalouty/)
+
 
 ### 🛠️ Technologies & Tools 
 
@@ -20,7 +22,6 @@
 
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-elsamalouty-b38687197/) 
-[![Leetcode](https://img.shields.io/badge/-LeetCode-1DA1F2?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Samalouty/)
 
 ### 🌟 Featured Projects
 - [Trip Genie](https://github.com/Advanced-computer-lab-2024/Trip-Genie) - A comprehensive travel and tourism platform that enables users to book flights, hotels, transportation, activities, and explore historical places while also providing a marketplace for travel-related products.
